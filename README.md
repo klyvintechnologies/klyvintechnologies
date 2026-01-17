@@ -1,10 +1,14 @@
-# 👋 Hi, I’m Kelvin | Full Stack Developer
+# 👋 Hi, I’m Kelvin Nii Amu Okai
 
 ---
 
-## About Me
-I am a Full Stack Developer specializing in scalable management systems, dashboards, APIs, and SaaS platforms. My focus is on performance optimization, precise UI/UX design, and robust backend architecture. I work with React, NextJS, Django, PHP, PostgreSQL, and other modern technologies to deliver high-quality, user-centric solutions. As a freelance developer, I create efficient and maintainable software for diverse industries.
+# 💫 About Me:
+I am a full-stack developer specializing in scalable management systems, dashboards, APIs, and SaaS platforms. My focus is on performance optimization, precise UI/UX design, and robust backend architecture. I work with Figma, React, NextJS, Django, PHP, PostgreSQL, and other modern technologies to deliver high-quality, user-centric solutions. As a freelance developer, I create efficient and maintainable software for diverse industries.
 
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/klyvin) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@=) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kelvinokai.business@gmail.com) 
 ---
 
 # 💻 Tech Stack:
