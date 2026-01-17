@@ -8,7 +8,7 @@ I am a full-stack developer specializing in scalable management systems, dashboa
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/klyvin) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@=) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kelvinokai.business@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/klyvin)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kelvinokai.business@gmail.com) 
 ---
 
 # 💻 Tech Stack:
